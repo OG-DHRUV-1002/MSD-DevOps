@@ -118,7 +118,7 @@ export default function LaptopScene() {
                     sectionColor="#39ff14"
                     fadeDistance={15}
                     fadeStrength={1}
-                    infinityGrid
+                    infiniteGrid
                 />
 
                 {/* FLOATING PARTICLES */}
