@@ -23,8 +23,12 @@
   --glass-border: rgba(255, 255, 255, 0.05);
 }
 
-body {
+html {
   background-color: var(--background);
+}
+
+body {
+  background-color: transparent;
   color: white;
   font-family: 'Inter', sans-serif;
   overflow-x: hidden;
